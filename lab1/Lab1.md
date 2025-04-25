@@ -44,7 +44,7 @@
 
 8. Меняем права доступа для вашего service account с `Storage Admin` на `Compute Viewer` (у меня не получилось поменять, машина залипла, поэтому я создала новый сервис аккаунт с правами `Compute Viewer` )
 
-   9. Видим что нам выскакивает ошибка - потому что у нас нет доступа. 
+9. Видим что нам выскакивает ошибка - потому что у нас нет доступа. 
 
       ![2025-04-25 11.10.38.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/2025-04-25%2011.10.38.jpg?raw=true)
 

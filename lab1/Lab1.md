@@ -28,11 +28,11 @@
 
 5. Переходим во вкладку Security - подключаем наш service accout 
 
-         ![Screenshot at Apr 25 11-07-57.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/Screenshot%20at%20Apr%2025%2011-07-57.png?raw=true)
+   ![Screenshot at Apr 25 11-07-57.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/Screenshot%20at%20Apr%2025%2011-07-57.png?raw=true)
 
 6. Переходим во вкладку advanced - там меняем в provising model вместо standart => spot 
 
-            ![Screenshot at Apr 25 11-08-35.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/Screenshot%20at%20Apr%2025%2011-08-35.png?raw=true)
+   ![Screenshot at Apr 25 11-08-35.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/Screenshot%20at%20Apr%2025%2011-08-35.png?raw=true)
 
 7. Идем в VM инстансы - по ssh подключаемся - вводим комманды управлять данными. С помощью утилиты `gsutils` найдите бакет `lab1-bucket-itmo` и скопируйте 3 файла в локальную папку на VM. Используя команду `ls -lah` отобразите что эти файлы хранятся у вас на VM.
 
@@ -40,11 +40,11 @@
 
                gsutil cp gs://lab1-bucket-itmo/* ~/lab1-files/
 
-               ![2025-04-25 11.10.00.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/2025-04-25%2011.10.00.jpg?raw=true)
+   ![2025-04-25 11.10.00.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/2025-04-25%2011.10.00.jpg?raw=true)
 
 8. Меняем права доступа для вашего service account с `Storage Admin` на `Compute Viewer` (у меня не получилось поменять, машина залипла, поэтому я создала новый сервис аккаунт с правами `Compute Viewer` )
 
-9. Видим что нам выскакивает ошибка - потому что у нас нет доступа. 
+   9. Видим что нам выскакивает ошибка - потому что у нас нет доступа. 
 
-                  ![2025-04-25 11.10.38.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/2025-04-25%2011.10.38.jpg?raw=true)
+      ![2025-04-25 11.10.38.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab1/2025-04-25%2011.10.38.jpg?raw=true)
 

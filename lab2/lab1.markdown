@@ -11,6 +11,8 @@
 
 Задание https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab2/lab2/#_2
 
-1. Создаем Cloud Run из представленного дефолтного сервиса Hello с минимальным количеством ресурсов.
-2. 
+1. Создаем Cloud Run из представленного дефолтного сервиса Hello с минимальным количеством ресурсов - memory limit 128 MiB.![Screenshot at Apr 28 11-25-24.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-25-24.png?raw=true)
+2. Переходим по ссылке предоставленной Cloud Run. ![Screenshot at Apr 28 11-24-50.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-24-50.png?raw=true)
+3. Смотрим, что у нас все работает. ![2025-04-28 11.22.11.jpg](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/2025-04-28%2011.22.11.jpg?raw=true)
+4. Переходим в разделы «логи» и «метрики». 
 

@@ -5,13 +5,14 @@
 <b>Group:</b> U4125 <br>
 <b>Author:</b> Buchnikova Ekaterina Dmitrievna  <br>
 <b>Lab:</b> Lab1 <br>
-<b>Date of create:</b> 21.04.2025 <br>
-<b>Date of finished:</b> 25.04.2025<br>
-<h1>Отчет по лабораторной работе №1 </h1>
-Задание https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab1/lab1/
+<b>Date of create:</b> 28.04.2025 <br>
+<b>Date of finished:</b> 28.04.2025<br>
 
-<h2>Шаг 1 </h2>
-Заходим на https://console.cloud.google.com/iam-admin/iam?hl=ru&invt=Abu5uw&project=cloud-platforms-as-the-basis во вкладку IAM
+<h1>Отчет по лабораторной работе №3 </h1>
 
-![](https://w7.pngwing.com/pngs/910/606/png-transparent-head-the-dummy-avatar-man-tie-jacket-user-thumbnail.png)
+Задание https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab3/lab3/
+
+1. Заходим в cloud storage 
+
+
 

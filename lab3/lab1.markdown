@@ -30,3 +30,4 @@
 
 7. Перемешаем фото в созданую папку «папку с котятами» через троеточие, а потом кнопку Move. ![Screenshot at Apr 28 21-03-36.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2021-03-36.png?raw=true)
 
+8. После этого нужно изменить настройки бакета и сделать его публичным. 

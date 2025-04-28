@@ -12,7 +12,8 @@
 
 Задание https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab3/lab3/
 
-1. Заходим в cloud storage 
+1. Заходим в cloud storage. ![Screenshot at Apr 28 20-43-27.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2020-43-27.png?raw=true)
 
 
 
+2. Создаем свой бакет. 

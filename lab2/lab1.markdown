@@ -19,5 +19,6 @@
 6. Заходим в настройки edit и deploy - меняем порт с 8080 на 8090.![Screenshot at Apr 28 11-35-47.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-35-47.png?raw=true)
 7. Отследим метрики. ![Screenshot at Apr 28 11-37-43.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-37-43.png?raw=true)
 8. Зайдем и поменяем параметры трафика между версиями. ![Screenshot at Apr 28 11-38-57.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-38-57.png?raw=true)
-9. 
+9. ![Screenshot at Apr 28 11-50-20.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab2/Screenshot%20at%20Apr%2028%2011-50-20.png?raw=true)
+10. 
 

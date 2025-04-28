@@ -16,4 +16,5 @@
 
 
 
-2. Создаем свой бакет. 
+2. Создаем свой бакет. ![Screenshot at Apr 28 20-50-07.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2020-50-07.png?raw=true)
+3. Загружаем 3-4 изображения в Cloud storage Bucket. 

@@ -20,4 +20,7 @@
 3. Загружаем 3-4 изображения в Cloud storage Bucket. ![Screenshot at Apr 28 20-52-14.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2020-52-14.png?raw=true)
 4. Вот они: ![Screenshot at Apr 28 20-52-58.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2020-52-58.png?raw=true)
 5. Создаем папку: ![Screenshot at Apr 28 20-54-08.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2020-54-08.png?raw=true)
-6. 
+6. ![Screenshot at Apr 28 21-00-21.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2021-00-21.png?raw=true)
+7. 
+8. Перемешаем фото в созданую папку «папку с котятами» через троеточие, а потом кнопку Move. ![Screenshot at Apr 28 21-03-36.png](https://github.com/katherinebutch/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-buchnikova-e-d/blob/main/lab3/Screenshot%20at%20Apr%2028%2021-03-36.png?raw=true)
+9. 

@@ -95,7 +95,7 @@ BI-платформа: [DataLense](https://datalens.yandex.cloud/jsqbdxpqqkj65-i
 | Сервис             | Нагрузка                           | Стоимость                                     |
 | ------------------ | ---------------------------------- | --------------------------------------------- |
 | Firebase Hosting   | до 10 000 посетителей              | $0 (входит в Free Tier)                       |
-| Cloud Run          | 5000 вызовов по 500 мс             | $0–0.5 (в пределах Free Tier)                 |
+| Cloud Run          | 5000 вызовов по 500 мс             | $4                                            |
 | Vertex AI Endpoint | 5000 вызовов легкой модели         | ~$2–3  $0.2 per 1K data points* (0-1M points) |
 | Cloud SQL          | 1–2 ГБ данных, минимальный инстанс | ~$7–10                                        |
 | Looker Studio      | Подключение к Cloud SQL            | $0                                            |
